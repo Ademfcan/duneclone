@@ -1,0 +1,51 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Tt]argets/
+obj/
+Build/
+Builds/
+UserSettings/
+
+# User-specific files
+.vscode/
+.idea/
+
+# User-specific settings
+# Uncomment if you have a custom .user file
+#*.user
+#*.userprefs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# JetBrains ReSharper
+.idea/.idea
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Linux Swap files
+*.swp
+
+
+# Ignore all .csproj files
+*.csproj
