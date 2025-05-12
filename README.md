@@ -5,8 +5,3 @@ A very simple copy of the android game [**Dune**](https://play.google.com/store/
 - No game over mechanism
 - Just a simple sine wave, and satisfying "hops"
 
-## Demo Video
-<video width="600" controls>
-  <source src="dunedemo.mp4" type="video/mp4">
-  Your browser does not support displaying mp4 videos.
-</video>
